@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[887],{3887:function(n,e,t){t.r(e),t.d(e,{TextNotInfo:function(){return c},WrapperMoviePage:function(){return u}});var p,i,a=t(168),r=t(6444),u=r.ZP.main(p||(p=(0,a.Z)(["\n  width: 100vw;\n  height: 100vh;\n  padding: 20px;\n"]))),c=r.ZP.p(i||(i=(0,a.Z)(["\n  text-align: center;\n  font-size: 18px;\n"])))}}]);
+//# sourceMappingURL=887.8c019b74.chunk.js.map
